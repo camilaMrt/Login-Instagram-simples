@@ -1,12 +1,12 @@
-# Página de Login Instagram
+# <div align="center"> Página de Login Instagram </div>
 
-<h3>:triangular_flag_on_post: Descrição do projeto</h3> 
+<div align="center"> <h2>Descrição do projeto</h2> </div>
 
-:small_blue_diamond: Projeto de réplica da página de login <br> do Instagram, realizado juntamente ao projeto <br> online programação do zero do
-<a href="https://github.com/rodolfomori?tab=repositories">Rodolfo Mori</a>.
+<div align="center"> :small_blue_diamond: Projeto de réplica da página de login do Instagram, realizado juntamente <br> ao projeto online programação do zero do
+<a href="https://github.com/rodolfomori?tab=repositories">Rodolfo Mori</a>.</div>
 <br><br>
 
-<img align="center" width="500px" src="https://github.com/camilaMrt/Login-Instagram-simples/blob/main/img/gif%20insta.gif?raw=true">
+<div align="center"> <img align="center" width="500px" src="https://github.com/camilaMrt/Login-Instagram-simples/blob/main/img/gif%20insta.gif?raw=true"></div>
 
 <br>
 
